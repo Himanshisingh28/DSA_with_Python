@@ -6,7 +6,7 @@ This repository contains a Python solution for the **Two Sum** problem.
 Given an array of integers and a target value, find the indices of two numbers that add up to the target.
 
 ## Approach
-Uses a **hash map** to find the solution in one pass.
+Uses a **hash map** **array** to find the solution in one pass.
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
